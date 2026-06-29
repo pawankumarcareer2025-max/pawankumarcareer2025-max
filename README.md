@@ -2,7 +2,7 @@
   <img src="github-banner.png" alt="Pawan Kumar Banner" width="100%">
 </p>
 
-                                            # 👋 Hi, I'm Pawan Kumar  
+  # 👋 Hi, I'm Pawan Kumar
 
 🎯 Data Analyst | Power BI | SQL | Python | Excel | Machine Learning  
 

@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Pawan Kumar Banner" width="100%">
+</p>
 # Hi 👋, I'm Pawan Kumar
 
 <h3 align="center">Aspiring Data Analyst | SQL | Power BI | Excel | Python | Business Intelligence</h3>
